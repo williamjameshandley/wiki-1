@@ -1,5 +1,5 @@
 # Plan
-## A Bayesian approach to RFI mitigation 
+## A Bayesian approach to RFI mitigation (in Radio Cosmology/Astronomy??) 
 1. Abstract...
 2. Introduction
 	- In depth review of Bayesian inference
