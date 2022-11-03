@@ -1,5 +1,5 @@
-##Plan##
-A Bayesian approach to RFI mitigation 
+# Plan
+##A Bayesian approach to RFI mitigation 
 1. Abstract...
 2. Introduction
 	- In depth review of Bayesian inference
